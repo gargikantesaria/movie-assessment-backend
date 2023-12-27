@@ -28,7 +28,7 @@ const AWS = __importStar(require("aws-sdk"));
 const fs = __importStar(require("fs"));
 const uuid_1 = require("uuid");
 AWS.config.update({
-    accessKeyId: process.env.AWS_ACCESS_KEY,
+    accessKeyId: process.env.MOVIE_ASSESS_AWS_ACCESS_KEY,
     region: process.env.AWS_REGION,
     secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY
 });
