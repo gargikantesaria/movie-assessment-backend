@@ -1,0 +1,1 @@
+{"version":3,"file":"movieSchemas.js","sourceRoot":"","sources":["../../src/schema/movieSchemas.ts"],"names":[],"mappings":";;;AAEa,QAAA,iBAAiB,GAAkB;IAC5C,GAAG,EAAE,iDAAiD;IACtD,IAAI,EAAE,QAAQ;IACd,QAAQ,EAAE,CAAC,aAAa,EAAE,sBAAsB,CAAC;IACjD,UAAU,EAAE;QACR,WAAW,EAAE;YACT,IAAI,EAAE,QAAQ;SACjB;QACD,oBAAoB,EAAE;YAClB,IAAI,EAAE,QAAQ;SACjB;KACJ;IACD,oBAAoB,EAAE,KAAK;CAC9B,CAAA"}
